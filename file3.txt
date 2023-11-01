@@ -1,2 +1,6 @@
-This is Alice
+<<<<<<< HEAD
+
 I was lying
+=======
+I am Paul
+>>>>>>> origin/master
